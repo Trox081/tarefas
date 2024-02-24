@@ -1,0 +1,36 @@
+/* BODY */
+body{
+    background: linear-gradient(to bottom, #f0b7a1 0%,#8c3310 48%,#8c3310 50%,#8c3310 50%,#8c3310 56%,#8c3310 56%,#8c3310 62%,#8c3310 62%,#89462d 69%,#752201 86%,#8c3310 98%,#bf6e4e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+header h1{
+    border: solid 5px black;
+    border-radius: 10%;
+    background: linear-gradient(to bottom, #ca9a87 0%,#66260c 48%,#5f230b 50%,#61240b 50%,#6e290d 56%,#70280c 56%,#6b270d 62%,#8c3310 62%,#89462d 69%,#752201 86%,#8c3310 98%,#bf6e4e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */;
+color: #fac19b;
+}
+
+header button{
+    background: linear-gradient(to bottom, #dda994 0%,#813010 48%,#792c0e 50%,#802f0f 50%,#81300f 56%,#8a320f 56%,#802f10 62%,#8c3310 62%,#89462d 69%,#752201 86%,#8c3310 98%,#bf6e4e 100%);
+}
+
+.pgInicial{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    width: 1000px;
+}
+.pgInicial img{
+    border: 5px solid #ca9a87;
+    width: 700px;
+}
+
+.pgInicial input[type="text"]{
+    border: 5px solid #ca9a87;
+    width: 250px;
+}
+
+.pgInicial input[type="button"]{
+    background: linear-gradient(to bottom, #dda994 0%,#813010 48%,#792c0e 50%,#802f0f 50%,#81300f 56%,#8a320f 56%,#802f10 62%,#8c3310 62%,#89462d 69%,#752201 86%,#8c3310 98%,#bf6e4e 100%);
+}
+
